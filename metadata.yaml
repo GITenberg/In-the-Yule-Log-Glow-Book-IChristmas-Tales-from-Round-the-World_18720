@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8202
     wikipedia: http://libserv12.princeton.edu/ead/c0003-clay.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18720#In-the-Yule-Log-Glow-Book-IChristmas-Tales-from-Round-the-World
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-06-29'
 gutenberg_type: Text
